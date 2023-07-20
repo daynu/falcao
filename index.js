@@ -35,7 +35,7 @@ function playRound(playerSelection, computerChoice)
     }
     else if (playerSelection == 'Paper')
     {
-        if(computerChoice == 'Scissorsr')
+        if(computerChoice == 'Scissors')
         {
             computerScore++;
         }
